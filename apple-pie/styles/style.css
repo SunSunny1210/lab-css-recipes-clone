@@ -1,7 +1,7 @@
 @font-face {
   font-family:"Cedora Regular";
   src: url(../cedora-cufonfonts-webfont/Cedora-RegularStd.woff);
-} url();
+}
 html {
   box-sizing: border-box;
   font-size: 16px;
@@ -50,7 +50,7 @@ body {
   }
 
   img {
-    padding: 20% 29%
+    padding: 18% 29%
   }
 
   
